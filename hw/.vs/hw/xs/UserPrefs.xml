@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{143E69F6-82DA-4548-917E-5314DB736CE5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="hw/Program.cs">
+    <Files>
+      <File FileName="hw/Program.cs" Line="16" Column="1" />
+      <File FileName="ClassLibrary/Employee.cs" Line="21" Column="10" />
+      <File FileName="ClassLibrary/Department.cs" Line="15" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hw" expanded="True">
+            <Node name="ClassLibrary" expanded="True" />
+            <Node name="hw" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.hw PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
